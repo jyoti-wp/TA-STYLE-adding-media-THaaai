@@ -353,9 +353,12 @@ img {
   letter-spacing: 1px;
 }
 
+.progress-bar-image {
+  margin-bottom: -80px;
+}
 .progress-bar-image img {
   width: 300px;
-  height: 300px;
+  height: 325px;
 }
 
 .percentage-bar {
